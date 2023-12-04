@@ -1,0 +1,28 @@
+.menu-container {
+    margin: 20px 0;
+    background-color: rgb(95, 228, 184);
+  }
+  
+  .menu-category {
+    font-size: 1.8em;
+    color: blue;
+    font-weight: bold;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  
+  .menu-item {
+    margin-bottom: 10px;
+    margin-left: 80px;
+    padding: 10px;
+    width: 80%;
+    border: 1px solid #ddd;
+    background-color: #b3abab;
+    list-style-type: none;
+  }
+  
+  .seasonal-menu {
+    margin-top: 20px;
+    margin-left: 30px;
+    width: 98%;
+  }

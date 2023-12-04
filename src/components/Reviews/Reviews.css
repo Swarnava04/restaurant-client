@@ -1,0 +1,23 @@
+.reviews-container {
+    margin: 20px 0;
+    background-color: rgb(19, 182, 182);
+  }
+  
+  .review-item {
+    margin-bottom: 10px;
+    width: 300px;
+    height: 150px;
+    padding: 10px;
+    border: 2px solid #722020;
+    list-style-type: none;
+    /* background-color: #f8f8f8; */
+  }
+  .review{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 80px;
+  }
+  .customer-name {
+    font-weight: bold;
+  }

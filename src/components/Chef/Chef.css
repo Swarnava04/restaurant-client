@@ -1,0 +1,13 @@
+/* Chef.module.css */
+.chef-container {
+    background-color: rgb(108, 108, 182);
+    padding: 20px;
+    text-align: center;
+    color: white;
+  }
+  
+  .chef-bio {
+    font-style: italic;
+    color: white;
+  }
+  

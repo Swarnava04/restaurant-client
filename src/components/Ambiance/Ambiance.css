@@ -1,0 +1,9 @@
+.ambiance-container {
+    margin: 20px 0;
+    background-color: aqua;
+  }
+  
+  .ambiance-description {
+    color: #333;
+    font-style: italic;
+  }

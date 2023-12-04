@@ -1,0 +1,29 @@
+.online-presence-container {
+  /* display: flex;
+  justify-content: center;
+  align-items: center; */
+    margin: 20px 0;
+    background-color: rgb(169, 39, 169);
+    text-decoration: none;
+  }
+  
+  .container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .website-link {
+    color: #000000;
+    text-decoration: none;
+    list-style: none;
+  }
+  
+  .social-media-link {
+    margin-right: 10px;
+    /* color: #333; */
+    color: rgb(250, 250, 250);
+    text-decoration: none;
+    list-style: none;
+    display: inline-block;
+  }
+  

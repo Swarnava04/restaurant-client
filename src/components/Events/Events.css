@@ -1,0 +1,16 @@
+.events-container {
+    margin: 20px 0;
+    background-color: rgb(230, 194, 142);
+  }
+  
+  .event-item {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    background-color: #f8f8f8;
+  }
+
+  .event-name{
+    border: 2px solid black;
+    margin: 5px ;
+  }

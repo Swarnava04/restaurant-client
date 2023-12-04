@@ -1,0 +1,22 @@
+.awards-container {
+    margin: 20px 0;
+    background-color: rgb(12, 182, 12);
+  }
+  
+.award-section{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 200px;
+  list-style-type: none;
+}
+  .award-item {
+    width: 100px;
+    height: 150px;
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    background-color: #f8f8f8;
+  }
+
+
